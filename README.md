@@ -1,5 +1,5 @@
-# GraphQLPlayFramework
-GraphQL implementation in Play framework based web app
+# GraphQL PlayFramework
+GraphQL implementation in Java using Play framework
 
 Detailed explaination at below link:
 
